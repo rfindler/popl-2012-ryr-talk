@@ -1,0 +1,44 @@
+The Koala, the Orangutan, and the Walrus.
+
+One day, Koala decided to build an ftp server
+
+and made the unfortunate choice to use the programming language C.
+
+We must not be surprised by this choice, however, as C is well-known
+to be a programming language that is effective for building systems
+software.
+
+After a few months of effort, Koala produced a functioning server that
+was rapidly adopted across the internet and widely used.
+
+One day, Orangutan decided to apply a new, automated testing technique
+to Koala's ftp server and, sure enough, found multiple bugs ---
+
+unsurprising for software of that complexity implemented in a
+programming language like C. After all, C is designed for performance
+and provides no help to maintain invariants of data structures or to
+detect errors early, when they are easy to fix.
+
+So, Orangutan decided to write a paper that explained the mathematical
+techniques it used to uncover the bugs and made the unfortunate choice
+to use the programming language LaTeX.
+
+We must not be surprised by this choice, however, as LaTeX is
+well-known to be a programming language that is effective for
+typesetting mathematical formulas.  
+
+After a few months of effort, Orangutan produced a paper extolling the
+virtues of its new techniques, and the ideas were adopted across the
+software engineering community and the paper was widely cited.
+
+One day, Walrus decided to apply a new, lightweight mechanized
+metatheory technique to Orangutan's paper and, sure enough, found
+multiple bugs --- 
+
+unsurprising for a piece of mathematics of that complexity implemented
+in a programming language like LaTeX. 
+After all, LaTeX is designed for beautiful output and provides no help
+to check invariants of mathematical formulas or to run examples to
+ensure they illustrate the intended points.
+
+Moral: bugs are everywhere
